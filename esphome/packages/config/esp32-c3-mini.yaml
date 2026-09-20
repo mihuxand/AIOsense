@@ -21,8 +21,6 @@ esp32:
   variant: ESP32C3
   framework:
     type: arduino
-  libraries:
-    - Wire
 
 wifi:
   output_power: 8.5dBm
