@@ -8,7 +8,7 @@ substitutions:
   voc_offset: "0"
 
 external_components:
-  - source: github.com/esphome/esphome
+  - source: github://esphome/esphome
     components:
       - bme68x_bsec2
 
