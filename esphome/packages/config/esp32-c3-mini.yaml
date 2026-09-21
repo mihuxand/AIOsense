@@ -20,7 +20,7 @@ esp32:
   board: lolin_c3_mini
   variant: ESP32C3
   framework:
-    type: esp-idf
+    type: arduino
 
 wifi:
   output_power: 8.5dBm
